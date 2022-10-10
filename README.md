@@ -1,3 +1,5 @@
 # Out remore repository
 
-Local changes from VSCode
+1. Local changes from VSCode
+
+2. Remore changes fron GitHub
